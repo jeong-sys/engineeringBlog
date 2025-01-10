@@ -1,6 +1,6 @@
-# youjeong's EnginerringBlog
+# Youjeong's EngineeringBlog
 
-## 언어
+## 👩‍💻 언어
 
 <p>
   <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=OpenJDK&logoColor=white">
