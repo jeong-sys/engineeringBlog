@@ -5,15 +5,14 @@ import Parser from "rss-parser";
  * README.MD에 작성될 페이지 텍스트
  * @type {string}
  */
-let text = `# Hi there 👋
-
-## 이런 환경에 익숙해요✍🏼
+let text = `# youjeong's EnginerringBlog
 
 ## 언어
 
 <p>
+  <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=OpenJDK&logoColor=white">
+  <img src="https://img.shields.io/badge/GoLand-000000?style=flat-square&logo=Goland&logoColor=white"/>
   <img alt="" src= "https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> 
-  <img alt="" src= "https://img.shields.io/badge/TypeScript-black?logo=typescript&logoColor=blue"/>
 </p>
 
 ## 📕 Latest Blog Posts
